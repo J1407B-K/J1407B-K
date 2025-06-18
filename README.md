@@ -2,19 +2,6 @@
 
 ## Contributing to the World's Open Source Projects
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/user-attachments/assets/35e9158f-be84-4828-bc34-e1b43467700a">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/user-attachments/assets/e3b8b56e-ad54-4a1c-a441-b2aff0a06b03">
-  <img
-    alt="Illustrated sun in light mode and a moon with stars in dark mode."
-    src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=%23F18900&lines=Hello+There!+👋;Pleased+to+meet+you!;&center=true&size=30">
