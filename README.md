@@ -1,4 +1,4 @@
-# ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) J1407B-K Don't forget your love
+# ❤️J407B-K❤️ Don't forget your love
 
 ## Contributing to the World's Open Source Projects
 
