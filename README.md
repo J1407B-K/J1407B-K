@@ -8,7 +8,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e3b8b56e-ad54-4a1c-a441-b2aff0a06b03">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
-![raw](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
+
+<picture>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<picture>
+
+
+
+
+
+
+
+
+
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -51,5 +64,4 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote">
 </picture>
 ## 😋Mario 
-![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
-
+![Mario_Gameplay](https://private-user-images.githubusercontent.com/79493862/272184344-56f4be91-dcd4-4700-838d-5545ccdbf859.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAyNTEyNjMsIm5iZiI6MTc1MDI1MDk2MywicGF0aCI6Ii83OTQ5Mzg2Mi8yNzIxODQzNDQtNTZmNGJlOTEtZGNkNC00NzAwLTgzOGQtNTU0NWNjZGJmODU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE4VDEyNDkyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0NTZmNTVmYTU3YmViMGEyZTcxZjJkMTNiOTBjNjRmOWIwY2ViZTNkMTNmMzljYTVkM2Q0YmVhYjMwOGEyOGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TzRyj724eBiT_f0MKR9ndVNIVpbviX_5Dzr1e6KhlJI)
